@@ -8,7 +8,7 @@
 
 ### 🛠️ What I use
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,python,androidstudio,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,androidstudio,linux)](https://skillicons.dev)
 
 **Local AI** → Ollama, LM Studio, PocketPal  
 **Game Hacking** → Cheat Engine, GameGuardian (for fun, not profit)  
