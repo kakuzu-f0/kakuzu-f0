@@ -6,9 +6,11 @@
 
 ---
 
-### 🛠️ What I use
+### 🛠️ What I fuck with
 
-[![My Skills](https://skillicons.dev/icons?i=python,androidstudio,linux)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=androidstudio,linux" width="100" />
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/brave.png" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/filezilla.png" width="50" height="50" />
 
 **Local AI** → Ollama, LM Studio, PocketPal  
 **Game Hacking** → Cheat Engine, GameGuardian (for fun, not profit)  
