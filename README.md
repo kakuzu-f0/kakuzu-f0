@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hey, I'm Kakuzu
 
-<!--
-**kakuzu-f0/kakuzu-f0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Telegram](https://img.shields.io/badge/Telegram-@kakuzu_f0-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/kakuzu_f0)
+[![Discord](https://img.shields.io/badge/Discord-@kakuzu_f0-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/kakuzu_f0)
+[![Email](https://img.shields.io/badge/Email-contact@kakuzu.fr-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:contact@kakuzu.fr)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I use
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,python,androidstudio,linux)](https://skillicons.dev)
+
+**Local AI** → Ollama, LM Studio, PocketPal  
+**Game Hacking** → Cheat Engine, GameGuardian (for fun, not profit)  
+**Phone stuff** → S25 (semi-rooted) + S8 (LineageOS, rooted)  
+**Gadgets** → Flipper Zero (NFC/SubGhz/IR)
+
+Organizing my chaos with Notion 📝
+
+---
+
+### 📱 My setup
+
+| Daily | Backup | PC | Toy |
+|-------|--------|-----|-----|
+| Galaxy S25 | Galaxy S8 (LineageOS) | Old PC + Win11 LTSC | Flipper Zero |
+
+*Always learning, not an expert*
+
+---
+
+📫 **You can contact me there**: [Telegram](https://t.me/kakuzu_f0) • [Discord](https://discord.com/users/kakuzu_f0) • [Email](mailto:contact@kakuzu.fr)
